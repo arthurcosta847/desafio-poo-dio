@@ -1,6 +1,6 @@
 ## Desafio "Abstraindo um Bootcamp Usando Orientação a Objetos em Java" (DIO)
 
-Neste desafio do curso TONNIE - Java and AI in Europe da plataforma DIO, eu fiz um código de um bootcamp 
+Neste desafio do bootcamp TONNIE - Java and AI in Europe da plataforma DIO, eu fiz um código simulando um bootcamp com cursos e mentorias.
 
 O código consiste em:
 - Registrar Devs inscritos no curso;
